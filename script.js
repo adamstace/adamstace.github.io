@@ -120,9 +120,9 @@ const observer = new IntersectionObserver((entries) => {
     });
 }, observerOptions);
 
-// Observe project cards
-document.querySelectorAll('.project-card').forEach(card => {
-    observer.observe(card);
+// Observe project cards and skill categories
+document.querySelectorAll('.project-card, .skill-category').forEach(element => {
+    observer.observe(element);
 });
 
 // ========================================
