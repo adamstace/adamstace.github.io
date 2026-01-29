@@ -39,7 +39,7 @@ html {
 }
 
 body {
-    font-family: 'Space Mono', monospace;
+    font-family: 'IBM Plex Sans', sans-serif;
     background-color: var(--bg-primary);
     color: var(--text-primary);
     line-height: 1.6;
@@ -114,7 +114,7 @@ body {
 }
 
 .nav-logo {
-    font-family: 'Syne', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: 1.5rem;
     font-weight: 800;
     background: var(--accent-gradient);
@@ -199,7 +199,7 @@ body {
 }
 
 .hero-title {
-    font-family: 'Syne', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: clamp(2.5rem, 5vw, 4rem);
     font-weight: 800;
     line-height: 1.2;
@@ -348,7 +348,7 @@ body {
 }
 
 .section-title {
-    font-family: 'Syne', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: clamp(2rem, 4vw, 3rem);
     font-weight: 800;
     text-align: center;
@@ -371,7 +371,7 @@ body {
     font-size: 4rem;
     line-height: 0.8;
     margin: 0.1rem 0.5rem 0 0;
-    font-family: 'Syne', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     background: var(--accent-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -443,7 +443,7 @@ body {
 }
 
 .skill-title {
-    font-family: 'Syne', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: 1.5rem;
     margin-bottom: 1.5rem;
     color: var(--text-primary);
@@ -520,7 +520,7 @@ body {
 }
 
 .card-title {
-    font-family: 'Syne', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: 1.5rem;
     margin-bottom: 1rem;
     color: var(--text-primary);
